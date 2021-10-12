@@ -1,0 +1,117 @@
+*{
+    margin: 0%;
+
+   
+}
+.brand h1 {
+  color:white;
+  margin:right;
+  
+  width:40%;
+  height: 25px;
+  padding: 10px;
+  margin-top: -1%;
+  text-align: center;
+    
+    
+    }
+.header {
+background-color: black;
+padding: 20px;
+height: 35px;
+
+}
+.menu{
+float: right;
+width: 40%;
+height: 10px;
+text-align: center;
+padding: 30px;
+margin-top: -4%;
+margin-right: 40px;
+
+
+}
+a{
+text-decoration: none;
+margin-right: 30px;
+text-align: center;
+color:white;
+margin-right: 30px;
+padding: 10px;
+}
+#title{
+text-align: center;
+margin: 70px;
+}
+body{
+background: linear-gradient(60deg,coral,limegreen);
+height: 1800px;
+
+}
+#dp{
+background: linear-gradient(45deg,darkred,black) ;
+
+color:white;
+width: 500px;
+padding: 15px;
+border-radius: 50%;
+margin: 20px auto ;
+text-align: center;
+margin-top: -3%;
+}
+table{
+width: 100%;
+margin-top: 30px;
+margin-left: 90px;
+text-align: center;
+
+}
+img{
+border-radius: 10px;
+box-shadow: 0 0 10px black;
+}
+#french{
+background: linear-gradient(45deg,darkred,black) ;
+
+color:white;
+width: 500px;
+padding: 15px;
+border-radius: 50%;
+margin: 20px auto ;
+text-align: center;
+
+}
+#chips{
+    img {
+        border-radius: 50%;
+        box-shadow: 0 0 10px black;
+}
+}
+
+table{
+margin-left: 20px;
+}
+#bug{
+background: linear-gradient(45deg,darkred,black) ;
+
+color:white;
+width: 500px;
+padding: 15px;
+border-radius: 50%;
+margin: 20px auto ;
+text-align: center;
+
+}
+#footer{
+background-color: black;
+height: 100px;
+color:white;
+margin-top: 120px;
+text-align :"justify";
+}
+#foot{
+text-align: center;
+padding: 20px;
+
+}
